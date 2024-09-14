@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-KoneksiSehat adalah sebuah Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi dengan tujuan meningkatkan pemanfaatan layanan kesehatan jarak jauh di Indonesia. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel.
+KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel.
 
 ## Fitur Utama
 
