@@ -2,7 +2,7 @@
 
 ## Deskripsi | Description
 
-KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel. | KoneksiSehat is a web-based Health Consultation System developed as a thesis project. The system is built using the Rapid Application Development (RAD) methodology and the Laravel Framework.
+KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel. | KoneksiSehat is a web-based Health Consultation System developed as a thesis project. The system is built using the Rapid Application Development (RAD) method and the Laravel Framework.
 
 ## Fitur Utama | Key Features
 
