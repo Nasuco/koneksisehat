@@ -23,9 +23,12 @@ KoneksiSehat adalah sebuah Sistem Konsultasi Kesehatan berbasis web yang dibangu
 * Tailwind CSS
 * Bootstrap
 
-## Demo
+## Demo Fitur Utama
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <a href="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202">
+    <img src="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202" alt="koneksi" width="400px">
+  </a>
   <a href="https://github.com/user-attachments/assets/636d485b-efb3-40c5-ac89-c3ce860cbba6">
     <img src="https://github.com/user-attachments/assets/636d485b-efb3-40c5-ac89-c3ce860cbba6" alt="koneksi1" width="400px">
   </a>
@@ -48,13 +51,10 @@ KoneksiSehat adalah sebuah Sistem Konsultasi Kesehatan berbasis web yang dibangu
     <img src="https://github.com/user-attachments/assets/17a71ee4-a5ff-4955-8278-c641b00ca027" alt="koneksi6" width="400px">
   </a>
 </div>
-<a href="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202">
-    <img src="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202" alt="koneksi" width="400px">
-</a>
 
 ## Catatan
 
-Proyek bersifat pribadi dan berisi banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya melalui https://annasabdulloh-portfolio.vercel.app .
+Proyek bersifat pribadi dan berisi banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya melalui [[Website Annas]](https://annasabdulloh-portfolio.vercel.app).
 
 ## Kontak
 
