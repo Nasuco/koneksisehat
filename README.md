@@ -47,10 +47,10 @@ KoneksiSehat adalah sebuah Sistem Konsultasi Kesehatan berbasis web yang dibangu
   <a href="https://github.com/user-attachments/assets/17a71ee4-a5ff-4955-8278-c641b00ca027">
     <img src="https://github.com/user-attachments/assets/17a71ee4-a5ff-4955-8278-c641b00ca027" alt="koneksi6" width="400px">
   </a>
-  <a href="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202">
-    <img src="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202" alt="koneksi" width="400px">
-  </a>
 </div>
+<a href="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202">
+    <img src="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202" alt="koneksi" width="400px">
+</a>
 
 ## Catatan
 
