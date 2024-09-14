@@ -7,7 +7,6 @@ KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun se
 ## Fitur Utama | Key Features
 
 * Buat Janji Konsultasi | Make Consultation Appointments
-* Daftar Janji Konsultasi | Consultation Appointment List
 * Pembayaran | Payment
 * *Chat* Konsultasi *Real-Time* | Real-Time Consultation Chat
 * Riwayat Konsultasi | Consultation History
