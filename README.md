@@ -2,30 +2,36 @@
 
 ## Deskripsi
 
-Ini adalah versi demo dari sistem rekomendasi film yang saya kembangkan sebagai bagian dari skripsi saya. Sistem ini menggunakan teknik kolaboratif filtering untuk memberikan rekomendasi film yang dipersonalisasi berdasarkan riwayat tontonan pengguna.
+KoneksiSehat adalah sebuah Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi dengan tujuan meningkatkan pemanfaatan layanan kesehatan jarak jauh di Indonesia. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel untuk menyediakan *platform* yang mudah digunakan bagi pasien dan dokter dalam melakukan konsultasi kesehatan secara online.
 
 ## Fitur Utama
 
-* Rekomendasi film berdasarkan riwayat tontonan pengguna
-* Pencarian film berdasarkan judul, genre, atau aktor
-* Tampilan detail film dengan informasi seperti sinopsis, rating, dan trailer
-* Antarmuka pengguna yang intuitif dan mudah digunakan
+* Buat Janji Konsultasi
+* *List*/Daftar Janji Konsultasi
+* Pembayaran
+* *Chat* Konsultasi *Real-Time*
+* Riwayat Konsultasi
+* Tambah Pasien/Keluarga
+
+## Teknologi
+
+* Laravel 11
+* Laravel Echo
+* AlpineJS
+* Pusher
+* Midtrans
+* Tailwind CSS
+* Bootstrap
 
 ## Demo
 
 [Tangkapan layar atau video demo]
 
-## Instalasi dan Penggunaan
-
-1. Clone repositori ini.
-2. Install dependensi menggunakan `pip install -r requirements.txt`.
-3. Jalankan aplikasi dengan `python main.py`.
-
 ## Catatan
 
-Ini adalah versi demo yang disederhanakan. Proyek lengkapnya bersifat pribadi dan berisi lebih banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya di [alamat email Anda].
+Proyek bersifat pribadi dan berisi banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya melalui https://annasabdulloh-portfolio.vercel.app .
 
 ## Kontak
 
-* Email: [alamat email Anda]
-* LinkedIn: [tautan profil LinkedIn Anda]
+* Website: [[Website Annas]](https://annasabdulloh-portfolio.vercel.app)
+* LinkedIn: [[LinkedIn Annas]](https://www.linkedin.com/in/annasabd/)
