@@ -1,10 +1,10 @@
-# Sistem Konsultasi Kesehatan (KoneksiSehat) | # Health Consultation System (KoneksiSehat)
+# Sistem Konsultasi Kesehatan (KoneksiSehat) | Health Consultation System (KoneksiSehat)
 
-## Deskripsi | ## Description
+## Deskripsi | Description
 
-KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel. | KoneksiSehat is a web-based Health Consultation System developed as a thesis project. The system is built using the *Rapid Application Development* (RAD) methodology and the Laravel *Framework*.
+KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun sebagai proyek skripsi. Sistem ini dibangun menggunakan Metode *Rapid Application Development* (RAD) dan *Framework* Laravel. | KoneksiSehat is a web-based Health Consultation System developed as a thesis project. The system is built using the Rapid Application Development (RAD) methodology and the Laravel Framework.
 
-## Fitur Utama | ## Key Features
+## Fitur Utama | Key Features
 
 * Buat Janji Konsultasi | Make Consultation Appointments
 * Daftar Janji Konsultasi | Consultation Appointment List
@@ -13,7 +13,7 @@ KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun se
 * Riwayat Konsultasi | Consultation History
 * Tambah Pasien/Keluarga | Add Patient/Family
 
-## Teknologi | ## Technology
+## Teknologi | Technology
 
 * Laravel 11
 * Laravel Echo
@@ -23,7 +23,7 @@ KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun se
 * Tailwind CSS
 * Bootstrap
 
-## Demo Fitur Utama | ## Main Features Demo
+## Demo Fitur Utama | Main Features Demo
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <a href="https://github.com/user-attachments/assets/0302cab7-b9c9-42aa-a1a8-5f960219b202">
@@ -52,11 +52,11 @@ KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun se
   </a>
 </div>
 
-## Catatan | ## Notes
+## Catatan | Notes
 
 Proyek bersifat pribadi dan berisi banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya melalui [[Website Annas]](https://annasabdulloh-portfolio.vercel.app). | This project is private and contains many features and functionalities. If you are interested in seeing the complete project or discussing further, please contact me through [[Annas' Website]](https://annasabdulloh-portfolio.vercel.app).
 
-## Kontak | ## Contact
+## Kontak | Contact
 
-* Website: [[Website Annas]](https://annasabdulloh-portfolio.vercel.app) | * Website: [[Annas' Website]](https://annasabdulloh-portfolio.vercel.app)
-* LinkedIn: [[LinkedIn Annas]](https://www.linkedin.com/in/annasabd/) | * LinkedIn: [[Annas' LinkedIn]](https://www.linkedin.com/in/annasabd/)
+* Website: [[Website Annas]](https://annasabdulloh-portfolio.vercel.app) | Website: [[Annas' Website]](https://annasabdulloh-portfolio.vercel.app)
+* LinkedIn: [[LinkedIn Annas]](https://www.linkedin.com/in/annasabd/) | LinkedIn: [[Annas' LinkedIn]](https://www.linkedin.com/in/annasabd/)
