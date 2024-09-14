@@ -13,6 +13,11 @@ KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun se
 * Riwayat Konsultasi | Consultation History
 * Tambah Pasien/Keluarga | Add Patient/Family
 
+## Peran | Roles
+
+* Pasien | Patients
+* Dokter | Doctors
+
 ## Teknologi | Technology
 
 * Laravel 11
