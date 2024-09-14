@@ -54,9 +54,9 @@ KoneksiSehat merupakan Sistem Konsultasi Kesehatan berbasis web yang dibangun se
 
 ## Catatan
 
-Proyek bersifat pribadi dan berisi banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya melalui <a href="https://annasabdulloh-portfolio.vercel.app" target="_blank">Website Annas</a>.
+Proyek bersifat pribadi dan berisi banyak fitur dan fungsionalitas. Jika Anda tertarik untuk melihat proyek lengkap atau berdiskusi lebih lanjut, silakan hubungi saya melalui [[Website Annas]](https://annasabdulloh-portfolio.vercel.app).
 
 ## Kontak
 
-* Website: <a href="https://annasabdulloh-portfolio.vercel.app" target="_blank">Website Annas</a>
-* LinkedIn: <a href="https://www.linkedin.com/in/annasabd/" target="_blank">LinkedIn Annas</a>
+* Website: [[Website Annas]](https://annasabdulloh-portfolio.vercel.app)
+* LinkedIn: [[LinkedIn Annas]](https://www.linkedin.com/in/annasabd/)
